@@ -39,7 +39,9 @@ The project uses two types of data:
 - Sleep EEG data for pretraining
 - MDD vs. Healthy Control EEG data for fine-tuning
 
-## Setup and Installation
+# Comet ML logging
+
+https://www.comet.com/ansafronov/neroml/734cdb67211149178a5308e85dfca84c?compareXAxis=step&experiment-tab=panels&showOutliers=true&smoothing=0&xAxis=step
 
 # Clone the repository
 
